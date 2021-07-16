@@ -7,7 +7,16 @@
 <img src="S__17457162.jpg" width="360" height="200"/>
 <img src="S__17457171.jpg" width="360" height="200"/>
 <br>
-<a href="647254547.130940.mp4" >點擊這裡看動作</a>
+<video controls width="250">
+
+    <source src="647254547.130940.mp4"
+            type="video/webm">
+
+    <source src="647254547.130940.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
 <br>
 <a href="各角度照片">點擊這裡看各角度照片</a>
 <br>
