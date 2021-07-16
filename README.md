@@ -7,7 +7,7 @@
 <img src="S__17457162.jpg" width="360" height="200"/>
 <img src="S__17457171.jpg" width="360" height="200"/>
 <br>
-<video src="647254547.130940.mp4"
+<vid src="647254547.130940.mp4"/>
 <br>
 <a href="各角度照片">點擊這裡看各角度照片</a>
 <br>
