@@ -11,10 +11,6 @@
 
     <source src="647254547.130940.mp4"
             type="video/webm">
-
-    <source src="647254547.130940.mp4"
-            type="video/mp4">
-
     Sorry, your browser doesn't support embedded videos.
 </video>
 <br>
