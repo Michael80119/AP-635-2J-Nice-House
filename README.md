@@ -99,6 +99,4 @@ Double Jaw finishing machine with 3 trimming and 5 end-rounding stations
 <h3><img src="補上機器尺寸路徑" width="360" height="200"/><h3>
 <h3><img src="補上機器尺寸路徑" width="360" height="200"/><h3>
 <p>
-
-</body>
 <html>
